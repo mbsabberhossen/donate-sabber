@@ -36,28 +36,47 @@ h1{
 }
 .tk{
     display: flex;
-    margin-left: 20%;
-    margin-right: 20%;
-    text-align: center;
-    font-size: 30px;
-    font-weight: 600;
+   margin-left: 20%;
+   margin-right: 20%;
+   font-size: 20px;
+   font-weight: bold;
 }
-.tk p {
-    background-color: whitesmoke;
+.tk1{
+    width: 14%;
+    padding: 40px 10px;
+    background-color: aliceblue;
     margin: 2%;
-    padding: 40px 30px;
     border-radius: 5%;
-}
 
-.tk  .tk200{
-    background-color: rgba(170, 90, 41, 0.212);
+}
+.tk2{width: 14%;
+    padding: 40px 10px;
+    background-color: rgba(186, 84, 11, 0.145);
     margin: 2%;
-    padding: 40px 30px;
+    border: 3px solid tomato;
+    color: tomato;
     border-radius: 5%;
-    border: 3px solid coral;
-    color: tomato;  
-    text-align: center; 
-    
+}
+.tk3{
+    width: 14%;
+    padding: 40px 10px;
+    background-color: aliceblue;
+    margin: 2%;
+    border-radius: 5%;
+}
+.tk4{
+    width: 14%;
+    padding: 40px 10px;
+    background-color: aliceblue;
+    margin: 2%;
+    border-radius: 5%;
+}
+.tk5{
+    width: 14%;
+    padding: 40px 10px;
+    background-color: aliceblue;
+    margin: 2%;
+    border-radius: 5%;
 }
 .other-tk{
     text-align: center;
@@ -66,3 +85,94 @@ h1{
     margin-left: 20%;
     margin-right: 20%;
 }
+.plan{
+    text-align: center;
+    margin-top: 150px;
+}
+.our-plan{
+    display: flex
+    ;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+.food-for{
+    width: 30%;
+    margin: 3%;
+    padding: 40px;
+    background-color: rgba(216, 191, 216, 0.696);
+    border-radius: 5%;
+}
+.food-for2{
+    width: 30%;
+    margin: 3%;
+    padding: 40px;
+    border-radius: 5%;
+    background-color: rgba(255, 228, 196, 0.552);
+}
+.food-for3{
+    width: 30%;
+    margin: 3%;
+    padding:40px;
+    border-radius:5%;
+    background-color: rgba(127, 255, 212, 0.442);
+}
+.Bangladesh{
+    display: flex;
+}
+.Bangladesh-t{
+    width: 50%;
+}
+
+.Bangladesh img{
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+.input-section{
+    width:600px;
+    margin: auto;
+    margin-top: 40px;
+    background-color: rgba(234, 130, 11, 0.281);
+    border-radius: 5%;
+   
+}
+.input-smail{
+    padding: 58px;
+    margin-left: 11%;
+    display: flex;
+   
+    border-radius: 5%;
+   
+}
+.input-smail input{
+    padding:13px;
+    border: none;
+    background-color: white;
+    width:250px;
+    border-radius: 5%;
+    
+
+
+}
+.input-smail a{
+    text-decoration: none;
+    background-color: tomato;
+    padding: 9px;
+    color: white;
+    border-radius: 5%;
+}
+
+
+
+
+
+
